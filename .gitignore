@@ -26,15 +26,7 @@ ENV/
 # Streamlit
 .streamlit/secrets.toml
 
-# Machine Learning model files
-*.pkl
-*.pickle
-*.joblib
-*.h5
-*.keras
-*.pt
-*.pth
-*.onnx
+
 
 # Dataset files (uncomment if you don't want to push datasets)
 # *.csv
