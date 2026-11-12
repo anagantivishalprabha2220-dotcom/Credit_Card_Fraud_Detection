@@ -1,0 +1,12 @@
+# Credit Card Fraud Detection - Project Requirements
+
+# Website and model inference
+streamlit
+pandas
+numpy
+scikit-learn
+
+# Notebook development, model training and visualization
+imbalanced-learn
+matplotlib
+seaborn
